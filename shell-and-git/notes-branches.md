@@ -12,7 +12,7 @@ Git offers us branches to keep our current work away from a teams common codebas
 
 - Create a new branch
 - make changes to the code
-- commit changes
+- commit the changes
 - push the commit to github repo
 - make a pull request
 - share pull request
