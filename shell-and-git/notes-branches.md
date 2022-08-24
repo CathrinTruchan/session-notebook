@@ -7,3 +7,15 @@ Git offers us branches to keep our current work away from a teams common codebas
 - git branch <branchname>: creates a new branch
 - git switch <branchname>: switches to branch
 - git branch -d <brachname>: deletes branch
+
+## Workflow
+
+- Create a new branch
+- make changes to the code
+- commit changes
+- push the commit to github repo
+- make a pull request
+- share pull request
+- after approval merge request to into main
+- pull main to your local machine
+- delete branch on github and locally
